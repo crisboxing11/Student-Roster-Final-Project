@@ -1,0 +1,3 @@
+C:\Users\crisb\OneDrive\Documents\WGU\Please Work\x64\Debug\Student Roster.exe
+C:\Users\crisb\OneDrive\Documents\WGU\C867 Class Program\x64\Debug\Student Roster.exe
+C:\Users\crisb\OneDrive\Documents\Side-Projects\Class Roster\C867 Class Program\x64\Debug\Student Roster.exe

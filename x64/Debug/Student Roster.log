@@ -1,0 +1,8 @@
+﻿  networkStudent.cpp
+  roster.cpp
+  securityStudent.cpp
+  softwareStudent.cpp
+  student.cpp
+  Generating Code...
+  LINK : C:\Users\crisb\OneDrive\Documents\Side-Projects\Class Roster\C867 Class Program\x64\Debug\Student Roster.exe not found or not built by the last incremental link; performing full link
+  Student Roster.vcxproj -> C:\Users\crisb\OneDrive\Documents\Side-Projects\Class Roster\C867 Class Program\x64\Debug\Student Roster.exe
